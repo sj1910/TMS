@@ -4,6 +4,15 @@
 <dict>
 	<key>compileBitcode</key>
 	<true/>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.baidu.com</string>
+		<key>displayImageURL</key>
+		<string>https://www.baidu.com</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.baidu.com</string>
+	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>provisioningProfiles</key>
@@ -12,7 +21,7 @@
 		<string>Sino.TMSystem.Distribution</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<string>C7B08CBE91868E558D069EA094426E19D295D03D</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
